@@ -1,0 +1,2 @@
+* dořešit Nvidia dkms
+
